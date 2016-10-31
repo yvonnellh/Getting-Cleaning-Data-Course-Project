@@ -1,4 +1,4 @@
-# Procedures for" run_analysis.R" script
+# Procedures for "run_analysis.R" script
 
 The script `run_analysis.R` performs 5the steps as described in the course project instructions.
 * Step 1- all the similar files were read into respective tables and then using rbind to merge into 1 dataset each for test, training & features.
